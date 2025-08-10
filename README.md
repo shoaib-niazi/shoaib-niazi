@@ -123,7 +123,7 @@ hobbies:
 </div>
 
 <div align="center">
-  <img src="https://leetcode-stats-six.vercel.app/api?username=swench_niazi_shoaib&theme=dark" />
+  <img src="https://github.com/shoaib-niazi/shoaib-niazi/blob/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
