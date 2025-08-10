@@ -116,6 +116,18 @@ hobbies:
 
 ---
 
+## 💻 **LeetCode Journey**
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/swench_niazi_shoaib?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</div>
+
+<div align="center">
+  <img src="https://leetcode-stats-six.vercel.app/api?username=swench_niazi_shoaib&theme=dark" />
+</div>
+
+---
+
 ## 🚀 **Current Focus Areas**
 
 <table>
