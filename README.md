@@ -42,7 +42,7 @@ currently_learning:
   - "Web Frameworks with Flask"
   - "Neural Networks with Keras"
 
-2024_goals:
+2025_goals:
   - "Master TensorFlow and PyTorch"
   - "Build 5+ ML projects"
   - "Contribute to open source"
@@ -235,7 +235,7 @@ Research     ██████████████████████�
 
 ---
 
-## 🎯 **2024 Achievements Tracker**
+## 🎯 **2025 Achievements Tracker**
 
 - [x] Started AI/ML specialization
 - [x] Built first TensorFlow model
